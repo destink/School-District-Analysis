@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School-District-Analysis
 ## Overview
 The main objective of the school district analysis was to reimport the data set that contained new and updated information and to perform an analysis on several components for the school district. 
 
